@@ -1,3 +1,4 @@
+<img width="264" height="363" alt="AtividadesSA" src="https://github.com/user-attachments/assets/87b1f4e5-d11c-457f-8150-616668b5ce93" />
 # TSEA Smart Line - Versão Produção
 
 Backend e frontend **separados**, com painel de login/registro, perfis (admin → gestor → operador → usuário), ordem de serviço auto-incrementada (OS-00001) e limite de tolerância configurável por operador.
